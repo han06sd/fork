@@ -1,3 +1,3 @@
 #pragma once
 
-int mul(int, int);
+int mul(int X, int Y);

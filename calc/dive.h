@@ -1,3 +1,3 @@
 #pragma once
 
-int dive(int, int);
+int dive(int X, int Y);
