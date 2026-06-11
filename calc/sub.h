@@ -1,5 +1,7 @@
 #pragma once
 
-
-int sub(int, int);
-
+<<<<<<< HEAD
+int sub(int a, int b);
+=======
+int sub(int X, int Y);
+>>>>>>> work2
